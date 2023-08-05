@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **on full-stack things**
 - 🌱 I’m currently learning **everything I can find**
-- 📫 How to reach me **dbevziuk.tech@gmail.com**
-- ⚡ Fun fact **The Eiffel Tower can be 15 cm taller during the summer**
+- 📫 How to reach me: **dbevziuk.tech@gmail.com**
+- ⚡ Fun fact: **The Eiffel Tower can be 15 cm taller during the summer**
 
 <h3 align="left">Stack:</h3>
 <p align="left"> 
