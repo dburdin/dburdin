@@ -5,7 +5,7 @@
 - 📫 How to reach me: dbevziuk.tech@gmail.com
 - ⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer
 
-# # Stack
+## Stack
 
 
 
