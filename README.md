@@ -1,12 +1,9 @@
 <h1 >Hi 👋, I'm Dmytrii</h1>
-<h2 >Full-stack developer</h3>
+
 
 - 🔭 I’m currently working on **on full-stack things**
-
 - 🌱 I’m currently learning **everything I can find**
-
 - 📫 How to reach me **dbevziuk.tech@gmail.com**
-
 - ⚡ Fun fact **The Eiffel Tower can be 15 cm taller during the summer**
 
 
