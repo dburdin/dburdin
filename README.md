@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dmytrii</h1>
-<h3 align="center">Full-stack developer</h3>
+<h1 >Hi 👋, I'm Dmytrii</h1>
+<h2 >Full-stack developer</h3>
 
 - 🔭 I’m currently working on **on full-stack things**
 
