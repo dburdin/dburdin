@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on full-stack things<br>🌱 I’m currently learning everything I can find<br>📫 How to reach me: dbevziuk.tech@gmail.com<br>⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer</p>
+<p align="left">🔭 I’m currently working on full-stack things<br>🌱 I’m currently learning everything I can find<br>📫 How to reach me: dbevziuk.tech@gmail.com<br>⚡ Fun fact: Sometimes cats, are the lucky recipients of animal orthodontics</p>
 
 ###
 
