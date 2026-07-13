@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on IT things<br>🌱 I’m currently learning everything I can find<br>📫 How to reach me: dbevziuk.tech@gmail.com<br>⚡ Fun fact: sometimes cats also wear teeth braces</p>
+<p align="left">🔭 I’m currently working on IT things<br>🌱 I’m currently learning everything I can find<br>📫 How to reach me: dbevziuk.tech@gmail.com<br></p>
 
 ###
 
